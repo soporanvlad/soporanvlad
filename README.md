@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name!
+# 👋 Hi, I'm Vlad!
 
 ## 🚀 About Me
 - 🎓 I’m currently learning **Web Development & Machine Learning**
