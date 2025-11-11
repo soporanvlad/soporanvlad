@@ -6,9 +6,9 @@
 - 🌍 I speak **English & French**
 
 ## 🛠️ Tech Stack
-- 💻 **Languages:** Python, Java, C++
-- 🌐 **Frontend:** React
-- 🔧 **Backend:** Node.js, PostgreSQL
+- 💻 **Languages:** Python
+- 🌐 **Frontend:** -
+- 🔧 **Backend:** -
 - ☁️ **Cloud & DevOps:** Docker
 
 ---
