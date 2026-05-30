@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 I’m currently learning **Web Development & Machine Learning**
 - 💼 I’m working on **personal projects & open-source contributions**
-- 🌍 I speak **English & French**
+- 🌍 I speak **English**
 
 ## 🛠️ Tech Stack
 - 💻 **Languages:** Python
