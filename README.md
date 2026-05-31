@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Vlad!
 
 ## 🚀 About Me
-- 🎓 I’m currently learning **Full-Stack Development & Machine Learning**
-- 💼 I’m working on **personal projects & open-source contributions**
-- 🌍 I speak **English**
+- 💻 Full-Stack Development | Artificial Intelligence | Machine Learning
+- 🚀 Building projects with Python, Java, C#, PHP, JavaScript and SQL
+- 🌱 Always learning and exploring new technologies
+- 🌍 Romanian & English
 
 ## 🛠️ Tech Stack
 - 💻 **Languages:** Python
-- 🌐 **Frontend:** -
-- 🔧 **Backend:** -
+- 🌐 **Frontend:** JavaScript
+- 🔧 **Backend:** Java
 - ☁️ **Cloud & DevOps:** Docker
 
 ---
