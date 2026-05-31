@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - 💻 **Languages:** Python
 - 🌐 **Frontend:** JavaScript
-- 🔧 **Backend:** Java
+- 🔧 **Backend:** Java | C#
 - ☁️ **Cloud & DevOps:** Docker
 
 ---
