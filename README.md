@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vlad!
 
 ## 🚀 About Me
-- 🎓 I’m currently learning **Web Development & Machine Learning**
+- 🎓 I’m currently learning **Full-Stack Development & Machine Learning**
 - 💼 I’m working on **personal projects & open-source contributions**
 - 🌍 I speak **English**
 
